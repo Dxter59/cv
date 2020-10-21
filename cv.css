@@ -1,0 +1,52 @@
+.page{
+    width: 780px;
+    margin: auto;
+    font-family: 'source sans pro', calibri, tahoma, sans-serif;
+    font-size: 16px;
+}
+.infophoto{
+    height: 250px;
+}
+
+.info{
+    float: left;
+}
+
+.photo{
+    float: right;
+
+}
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+.section-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+.section-droite{
+    margin-left: 150px;
+    margin-top: 80px;
+}
+h2{
+    font-size: 28px;
+    color: #3388bb;
+    border-bottom: 3px solid #3388dd;
+}
+.duree{
+    font-weight: normal;
+    font-style: italic;
+    font-size: 16px;
+}
+.titre{
+    font-weight: bold;
+    font-size: 20px;
+}
+#Parcours-gauche p{
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+#Compétences-gauche p{
+    margin-bottom: 35px;
+}
